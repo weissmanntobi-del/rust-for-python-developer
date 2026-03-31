@@ -1,1 +1,1 @@
-<li>Rust Next Step Bundle: https://tobiweissmann.gumroad.com/l/wcylm</li>
+<li>Rust Next Step Bundle 7 Real Projects + Concurrency Guide : https://tobiweissmann.gumroad.com/l/wcylm</li>
