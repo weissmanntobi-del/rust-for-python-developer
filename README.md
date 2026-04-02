@@ -1,5 +1,5 @@
 ## Rust for Python Developer 
 
 <ul>
-<li>Rust Next Step Bundle 7 Real Projects + Concurrency Guide : https://tobiweissmann.gumroad.com/l/wcylm</li>
+<li>Rust for Python Developers Bundle : https://tobiweissmann.gumroad.com/l/wcylm</li>
 </ul>
