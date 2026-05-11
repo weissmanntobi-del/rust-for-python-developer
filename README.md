@@ -1,7 +1,5 @@
 ## Rust for Python Developer 
 
-# Rust for Python Developers
-
 ## Who This Is For
 
 ## Start Here
