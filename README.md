@@ -1,6 +1,6 @@
 ## Rust for Python Developer 
 
-## Who This Is For
+## Who This Is Fo
 
 ## Start Here
 
