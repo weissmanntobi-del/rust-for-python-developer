@@ -2,6 +2,18 @@
 
 # Rust for Python Developers
 
+## Who This Is For
+
+## Start Here
+
+## Recommended Learning Checklist
+
+## Python vs Rust Mental Model
+
+## Beginner Projects
+
+## Paid Bundle
+
 A practical roadmap for Python and web developers who want to learn Rust, ownership, borrowing, memory, structs, enums, traits, and systems programming basics.
 
 This repository is for developers who already know Python but feel confused when learning Rust.
@@ -33,6 +45,29 @@ This roadmap explains Rust from a Python developer’s point of view.
 7. [Recommended Resources](resources.md)
 
 ---
+
+## Recommended Learning Checklist
+Use this checklist if you are coming from Python and want to learn Rust properly:
+
+- [ ] Understand stack vs heap
+- [ ] Understand values vs references
+- [ ] Understand copying vs moving
+- [ ] Understand ownership
+- [ ] Understand borrowing
+- [ ] Understand mutable borrowing
+- [ ] Understand lifetimes at a basic level
+- [ ] Understand structs
+- [ ] Understand enums
+- [ ] Understand pattern matching
+- [ ] Understand traits
+- [ ] Understand `Option<T>`
+- [ ] Understand `Result<T, E>`
+- [ ] Build a CLI tool
+- [ ] Build a file parser
+- [ ] Build a small HTTP API
+- [ ] Build a project using structs, enums, traits, and error handling
+
+-----
 
 ## Why Rust Feels Difficult for Python Developers
 
